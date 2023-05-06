@@ -1,4 +1,4 @@
-# <p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I'm Noman!</p>
+# <p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, Hey there Noman here</p>
 
 
 ## ⚙️ My skills
@@ -6,14 +6,11 @@
 
 
 ##  Github stats
-
 <div style="display:flex; justify-content:center;">
     <img alt="status github, commits, etc..." width="400px" src="https://github-readme-stats.vercel.app/api?username=NaumanNahian&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
     />
-    <img alt="most used languages" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaumanNahian&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+    <img alt="most used languages" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaumanNahian&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=CSS,JavaScript,TeX"/>
 </div>
 
-
 ## Contact me 
-
 <a href="https://www.linkedin.com/in/nomanmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="hridoyalhazard" height="30" width="40" /></a> <a href="https://github.com/NaumanNahian" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="HridoyHazard" height="30" width="40" /></a>

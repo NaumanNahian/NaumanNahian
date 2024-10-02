@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, Hey there Noman here</p>
+# <p align="center"><img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px"> Hey there Noman here</p>
 
 
 ## ⚙️ My skills

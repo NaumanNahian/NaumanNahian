@@ -36,9 +36,10 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=NaumanNahian&show_icons=true&theme=algolia&count_private=true&border_radius=10"/>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaumanNahian&layout=compact&theme=algolia&border_radius=10&hide=css,html,tex"/>
+  <img height="200px" width="auto" src="https://github-readme-stats.vercel.app/api?username=NaumanNahian&show_icons=true&theme=algolia&count_private=true&border_radius=10"/>
+  <img height="200px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaumanNahian&layout=compact&theme=algolia&border_radius=10&hide=css,html,tex"/>
 </div>
+
 
 <div align="center">
   <img width="800px" src="https://github-readme-streak-stats.herokuapp.com/?user=NaumanNahian&theme=algolia&border_radius=10"/>

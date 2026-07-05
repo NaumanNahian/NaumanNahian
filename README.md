@@ -60,14 +60,15 @@ DevOps and Cloud Engineer with extensive experience managing both on-premises an
 ## GitHub Stats
 
 <div align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=NaumanNahian&show_icons=true&theme=default&count_private=true&border_radius=10"/>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaumanNahian&layout=compact&theme=default&border_radius=10&hide=css,html,tex"/>
+  <img width="400px" src="https://github-stats-extended.vercel.app/api?username=NaumanNahian&show_icons=true&theme=default&border_radius=10"/>
+  <img width="400px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NaumanNahian&layout=compact&theme=default&border_radius=10&hide=css,html,tex&langs_count=8"/>
 </div>
 <div align="center">
   <img width="800px" src="https://github-readme-streak-stats.herokuapp.com/?user=NaumanNahian&theme=default&border_radius=10"/>
 </div>
 
 <br>
+
 
 ## Website
 
